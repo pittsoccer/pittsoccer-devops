@@ -1,2 +1,2 @@
 # pittsoccer-devops
-CIS-486 | Devops Projects
+CIS-486 | Devops Project
